@@ -1,0 +1,80 @@
+
+.ql{
+	margin-top: 30px;
+}
+.qbfl{
+	margin-top: 16px;
+}
+.qbfl li{
+	background: #13D1BE;
+	border: none;
+	height: 39.5px;
+}
+.other{
+	list-style: none;
+	line-height: 50px;
+}
+.other li{
+	float: left;
+	width: 100px;
+	font-size: 16px;
+	color: #222;
+    font-weight: 700;
+	cursor: pointer;
+}
+.zhujd{
+	float:left;
+	margin: 13px 0 0 0;
+}
+.zhangzs{
+	float: right;
+	margin: 13px 0 0 0;
+}
+.zcdl{
+	padding-top: 30px;
+	text-align: center;
+	height: 278px;
+	border: 1px solid #ddd;
+	margin-bottom: 13px;
+}
+.smdl{
+	text-align: center;
+	height: 177px;
+	border: 1px solid #ddd;
+}
+@media(max-width:786px){
+	.zhujd{
+		display: none;
+	}
+	.smdl{
+		display: none;
+	}
+	.zcdl{
+		display: none;
+	}
+	.zhangzs{
+		display: none;
+	}
+	.other{
+		display: none;
+	}
+	.userhelp{
+		display: none;
+	}
+}
+.ygd{		
+	background: rgb(190, 164, 116);
+	margin: 20px 0;
+}
+.ygd li a{
+	color: #fff;
+}
+.userhelp ul{
+	list-style: none;
+}
+.userhelp ul li span{
+	margin-left: 30px;
+}
+.footer{
+	text-align: center;
+}

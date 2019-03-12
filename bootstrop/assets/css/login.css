@@ -1,0 +1,75 @@
+@media (max-width:768px) {
+	.img-responsive{
+		display: none;
+	}
+	.logo{
+		margin-top: 20px;
+	}
+}
+@media(min-width: 1200px){
+	.logo{
+		width: 980px;
+		margin-top: 40px;
+ }
+}
+.img-logo{
+	margin: 0;
+    width: 82px;
+    height: 54px;
+    background-position: -188px -808px;
+    background-image: url(../img/1.png);
+    background-size: initial;
+    float: left;
+    display: block;
+    display: inline;
+    text-indent: -9999px;
+    overflow: hidden;
+}
+.zhdl{
+	width: 270px;
+	height: 300px;
+}
+.fl{
+	display: block;
+	padding-top: 40px;
+	float: left;
+}
+.fr{
+	display: block;
+	padding-top: 40px;
+	float: right;
+}
+.input-box{
+	position: relative;
+	float: left;
+	margin-top: 10px;
+	width: 270px;
+	height: 36px;
+	border: 1px solid #111;
+	clear: both;
+}
+.input-box input{
+	float: right;
+	width: 230px;
+	height: 34px;
+	border: none;
+}
+.wjmm{
+	float: right;
+	margin-top: 8px;
+}
+button{
+	width: 270px;
+	height: 30px;
+	margin-top: 10px;
+	background: #2eb7aa;
+	border: none;
+}
+.zhuche{
+	display: block;
+	margin-top: 10px;
+}
+p{
+	display: block;
+	height: 40px;	
+}
